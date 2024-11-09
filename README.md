@@ -2,9 +2,11 @@
 ## Customer Churn Prediction using ANN
 This project focuses on predicting customer churn using a Neural Network model (ANN). The goal is to identify customers who are likely to exit (churn) based on various features. The model is trained on a dataset with key customer information, including demographics and account details.
 
-### Screensorts
-![alt text](<Screenshot (64).png>)
-![alt text](<Screenshot (65).png>) 
+### Use model
+
+link : https://customerchurnprediction-avlmup8prqzroeqnzwbiug.streamlit.app/
+
+<video controls src="model_deployment_video-1.mp4" title="Model Deployment Video"></video>
 
 ### Table of Contents
 Project Overview
