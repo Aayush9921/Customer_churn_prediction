@@ -29,16 +29,16 @@ Customer churn prediction is crucial for businesses to retain customers and impr
 ### Dataset
 The dataset contains the following columns:
 
-CreditScore: Customer's credit score
-Gender: Customer's gender (Male or Female)
-Age: Customer's age
-Tenure: Number of years the customer has been with the bank
-Balance: Account balance
-NumOfProducts: Number of bank products the customer has
-HasCrCard: Whether the customer has a credit card (1 = Yes, 0 = No)
-IsActiveMember: Whether the customer is an active member (1 = Yes, 0 = No)
-EstimatedSalary: Estimated salary of the customer
-Exited: Target variable (1 = Customer churned, 0 = Customer retained)
+- CreditScore: Customer's credit score
+- Gender: Customer's gender (Male or Female)
+- Age: Customer's age
+- Tenure: Number of years the customer has been with the bank
+- Balance: Account balance
+- NumOfProducts: Number of bank products the customer has
+- HasCrCard: Whether the customer has a credit card (1 = Yes, 0 = No)
+- IsActiveMember: Whether the customer is an active member (1 = Yes, 0 = No)
+- EstimatedSalary: Estimated salary of the customer
+- Exited: Target variable (1 = Customer churned, 0 = Customer retained)
 The dataset's target column, Exited, indicates whether the customer churned.
 
 ### Technologies and Libraries Used
