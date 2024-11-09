@@ -6,7 +6,8 @@ This project focuses on predicting customer churn using a Neural Network model (
 
 link : https://customerchurnprediction-avlmup8prqzroeqnzwbiug.streamlit.app/
 
-<video controls src="model_deployment_video-1.mp4" title="Model Deployment Video"></video>
+![alt text](<Screenshot (67).png>) 
+![alt text](<Screenshot (68).png>)
 
 ### Table of Contents
 Project Overview
